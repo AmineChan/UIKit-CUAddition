@@ -1,0 +1,24 @@
+{
+  "name": "UIKit+CUAddition",
+  "version": "0.0.4",
+  "summary": "UIKit+CUAddition.",
+  "homepage": "https://github.com/AmineChan",
+  "license": "MIT",
+  "authors": {
+    "czm": "328525910@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/AmineChan/UIKit-CUAddition.git",
+    "tag": "0.0.4"
+  },
+  "requires_arc": true,
+  "source_files": "UIKit+CUAddition/*.{h,m}",
+  "frameworks": [
+    "Foundation",
+    "CoreGraphics",
+    "UIKit"
+  ]
+}

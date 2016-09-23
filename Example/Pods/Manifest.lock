@@ -1,0 +1,16 @@
+PODS:
+  - UIKit+CUAddition (0.0.4)
+
+DEPENDENCIES:
+  - UIKit+CUAddition (from `../`)
+
+EXTERNAL SOURCES:
+  UIKit+CUAddition:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UIKit+CUAddition: ff2622f2ec4b856a6a191c84069c541a6a4c222d
+
+PODFILE CHECKSUM: dcc50db806977c0b45beb869609afb2ab6d1b0b6
+
+COCOAPODS: 1.0.1
